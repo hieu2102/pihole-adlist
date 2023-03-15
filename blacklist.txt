@@ -1,2 +1,2 @@
 0.0.0.0 befirstcdn.com
-0.0.0.0 exness.asia
+0.0.0.0 www.exness.asia
