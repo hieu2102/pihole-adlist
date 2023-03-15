@@ -1,2 +1,3 @@
 0.0.0.0 befirstcdn.com
 0.0.0.0 www.exness.asia
+0.0.0.0 npw-acs-asia-slb1.exness.com
