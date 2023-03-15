@@ -1,1 +1,1 @@
-befirstcdn.com
+0.0.0.0 befirstcdn.com
